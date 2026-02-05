@@ -1,0 +1,698 @@
+[
+  {
+    "categoria": "01_fundamentos",
+    "titulo": "01 fundamentos",
+    "aulas": [
+      {
+        "titulo": "002 algoritmo morangos e ma as",
+        "arquivo": "conteudo/01_fundamentos/002-mesttra-algoritmo-morangos-e-ma-as.html"
+      },
+      {
+        "titulo": "003 algoritmos",
+        "arquivo": "conteudo/01_fundamentos/003-mesttra-algoritmos.html"
+      },
+      {
+        "titulo": "004 analogia de uma repeti o no mundo real",
+        "arquivo": "conteudo/01_fundamentos/004-mesttra-analogia-de-uma-repeti-o-no-mundo-real.html"
+      },
+      {
+        "titulo": "008 arraylist",
+        "arquivo": "conteudo/01_fundamentos/008-mesttra-arraylist.html"
+      },
+      {
+        "titulo": "022 calcular rea figuras geom tricas",
+        "arquivo": "conteudo/01_fundamentos/022-mesttra-calcular-rea-figuras-geom-tricas.html"
+      },
+      {
+        "titulo": "023 caractere de escape",
+        "arquivo": "conteudo/01_fundamentos/023-mesttra-caractere-de-escape.html"
+      },
+      {
+        "titulo": "028 comando printf",
+        "arquivo": "conteudo/01_fundamentos/028-mesttra-comando-printf.html"
+      },
+      {
+        "titulo": "029 comandos de entrada e sa da",
+        "arquivo": "conteudo/01_fundamentos/029-mesttra-comandos-de-entrada-e-sa-da.html"
+      },
+      {
+        "titulo": "030 comandos de entrada e sa da de dados no java",
+        "arquivo": "conteudo/01_fundamentos/030-mesttra-comandos-de-entrada-e-sa-da-de-dados-no-java.html"
+      },
+      {
+        "titulo": "031 comandos para leitura de n meros",
+        "arquivo": "conteudo/01_fundamentos/031-mesttra-comandos-para-leitura-de-n-meros.html"
+      },
+      {
+        "titulo": "038 conceito de enum",
+        "arquivo": "conteudo/01_fundamentos/038-mesttra-conceito-de-enum.html"
+      },
+      {
+        "titulo": "046 criando o seu pr prio pacote",
+        "arquivo": "conteudo/01_fundamentos/046-mesttra-criando-o-seu-pr-prio-pacote.html"
+      },
+      {
+        "titulo": "049 desafio algoritmo para valida o de cpf",
+        "arquivo": "conteudo/01_fundamentos/049-mesttra-desafio-algoritmo-para-valida-o-de-cpf.html"
+      },
+      {
+        "titulo": "054 diferen a entre print e println",
+        "arquivo": "conteudo/01_fundamentos/054-mesttra-diferen-a-entre-print-e-println.html"
+      },
+      {
+        "titulo": "060 estruturas de repeti o",
+        "arquivo": "conteudo/01_fundamentos/060-mesttra-estruturas-de-repeti-o.html"
+      },
+      {
+        "titulo": "061 estruturas de repeti o do e for",
+        "arquivo": "conteudo/01_fundamentos/061-mesttra-estruturas-de-repeti-o-do-e-for.html"
+      },
+      {
+        "titulo": "072 exerc cio 11 leitura com repeti o em caso de exce o",
+        "arquivo": "conteudo/01_fundamentos/072-mesttra-exerc-cio-11-leitura-com-repeti-o-em-caso-de-exce-o.html"
+      },
+      {
+        "titulo": "101 lista 8 algoritmos sequ nciais",
+        "arquivo": "conteudo/01_fundamentos/101-mesttra-lista-8-algoritmos-sequ-nciais.html"
+      },
+      {
+        "titulo": "102 lista 9 algoritmos de sele o",
+        "arquivo": "conteudo/01_fundamentos/102-mesttra-lista-9-algoritmos-de-sele-o.html"
+      },
+      {
+        "titulo": "112 o que um pacote em java",
+        "arquivo": "conteudo/01_fundamentos/112-mesttra-o-que-um-pacote-em-java.html"
+      },
+      {
+        "titulo": "137 seu primeiro algoritmo em java",
+        "arquivo": "conteudo/01_fundamentos/137-mesttra-seu-primeiro-algoritmo-em-java.html"
+      },
+      {
+        "titulo": "154 v deo primeira aplica o de console com o banco de dados",
+        "arquivo": "conteudo/01_fundamentos/154-mesttra-v-deo-primeira-aplica-o-de-console-com-o-banco-de-dados.html"
+      }
+    ]
+  },
+  {
+    "categoria": "02_poo",
+    "titulo": "02 poo",
+    "aulas": [
+      {
+        "titulo": "025 classe para representar data e hora em java",
+        "arquivo": "conteudo/02_poo/025-mesttra-classe-para-representar-data-e-hora-em-java.html"
+      },
+      {
+        "titulo": "026 classe utilit ria para leitura de dados",
+        "arquivo": "conteudo/02_poo/026-mesttra-classe-utilit-ria-para-leitura-de-dados.html"
+      },
+      {
+        "titulo": "027 classes utilit rias versus m todos est ticos",
+        "arquivo": "conteudo/02_poo/027-mesttra-classes-utilit-rias-versus-m-todos-est-ticos.html"
+      },
+      {
+        "titulo": "037 conceito de classe e objeto",
+        "arquivo": "conteudo/02_poo/037-mesttra-conceito-de-classe-e-objeto.html"
+      },
+      {
+        "titulo": "069 exemplo de classe utilit ria validador",
+        "arquivo": "conteudo/02_poo/069-mesttra-exemplo-de-classe-utilit-ria-validador.html"
+      },
+      {
+        "titulo": "096 leitura de dados com a classe scanner",
+        "arquivo": "conteudo/02_poo/096-mesttra-leitura-de-dados-com-a-classe-scanner.html"
+      },
+      {
+        "titulo": "135 resumo de classes e objetos",
+        "arquivo": "conteudo/02_poo/135-mesttra-resumo-de-classes-e-objetos.html"
+      }
+    ]
+  },
+  {
+    "categoria": "03_banco_dados",
+    "titulo": "03 banco dados",
+    "aulas": [
+      {
+        "titulo": "011 banco de dados",
+        "arquivo": "conteudo/03_banco_dados/011-mesttra-banco-de-dados.html"
+      },
+      {
+        "titulo": "012 banco de dados agenda telef nica",
+        "arquivo": "conteudo/03_banco_dados/012-mesttra-banco-de-dados-agenda-telef-nica.html"
+      },
+      {
+        "titulo": "013 banco de dados loja virtual",
+        "arquivo": "conteudo/03_banco_dados/013-mesttra-banco-de-dados-loja-virtual.html"
+      },
+      {
+        "titulo": "014 banco de dados sistema escolar",
+        "arquivo": "conteudo/03_banco_dados/014-mesttra-banco-de-dados-sistema-escolar.html"
+      },
+      {
+        "titulo": "042 conceito joins",
+        "arquivo": "conteudo/03_banco_dados/042-mesttra-conceito-joins.html"
+      },
+      {
+        "titulo": "078 exerc cios sql",
+        "arquivo": "conteudo/03_banco_dados/078-mesttra-exerc-cios-sql.html"
+      },
+      {
+        "titulo": "090 instala o do mysql server",
+        "arquivo": "conteudo/03_banco_dados/090-mesttra-instala-o-do-mysql-server.html"
+      },
+      {
+        "titulo": "092 introdu o ao banco de dados",
+        "arquivo": "conteudo/03_banco_dados/092-mesttra-introdu-o-ao-banco-de-dados.html"
+      },
+      {
+        "titulo": "130 reescrevendo uma aplica o para banco de dados",
+        "arquivo": "conteudo/03_banco_dados/130-mesttra-reescrevendo-uma-aplica-o-para-banco-de-dados.html"
+      },
+      {
+        "titulo": "134 resumo comando select banco de dados",
+        "arquivo": "conteudo/03_banco_dados/134-mesttra-resumo-comando-select-banco-de-dados.html"
+      },
+      {
+        "titulo": "150 v deo executando comandos sql pelo java",
+        "arquivo": "conteudo/03_banco_dados/150-mesttra-v-deo-executando-comandos-sql-pelo-java.html"
+      }
+    ]
+  },
+  {
+    "categoria": "04_backend",
+    "titulo": "04 backend",
+    "aulas": [
+      {
+        "titulo": "010 backend",
+        "arquivo": "conteudo/04_backend/010-mesttra-backend.html"
+      },
+      {
+        "titulo": "084 https www onlinegdb com",
+        "arquivo": "conteudo/04_backend/084-mesttra-https-www-onlinegdb-com.html"
+      },
+      {
+        "titulo": "142 springboot",
+        "arquivo": "conteudo/04_backend/142-mesttra-springboot.html"
+      },
+      {
+        "titulo": "161 v deos prepara o para aplica o backend no formato de api http",
+        "arquivo": "conteudo/04_backend/161-mesttra-v-deos-prepara-o-para-aplica-o-backend-no-formato-de-api-http.html"
+      }
+    ]
+  },
+  {
+    "categoria": "05_projetos",
+    "titulo": "05 projetos",
+    "aulas": [
+      {
+        "titulo": "007 aplicativo gerenciamento de alunos",
+        "arquivo": "conteudo/05_projetos/007-mesttra-aplicativo-gerenciamento-de-alunos.html"
+      },
+      {
+        "titulo": "017 c digo final jogo da forca",
+        "arquivo": "conteudo/05_projetos/017-mesttra-c-digo-final-jogo-da-forca.html"
+      },
+      {
+        "titulo": "021 calculadora de rea de figuras geom tricas",
+        "arquivo": "conteudo/05_projetos/021-mesttra-calculadora-de-rea-de-figuras-geom-tricas.html"
+      },
+      {
+        "titulo": "052 desafio jogo da forca",
+        "arquivo": "conteudo/05_projetos/052-mesttra-desafio-jogo-da-forca.html"
+      },
+      {
+        "titulo": "058 entrega do jogo da forca",
+        "arquivo": "conteudo/05_projetos/058-mesttra-entrega-do-jogo-da-forca.html"
+      },
+      {
+        "titulo": "075 exerc cio jogo vil o e her i",
+        "arquivo": "conteudo/05_projetos/075-mesttra-exerc-cio-jogo-vil-o-e-her-i.html"
+      },
+      {
+        "titulo": "082 gerenciamento de contatos v1",
+        "arquivo": "conteudo/05_projetos/082-mesttra-gerenciamento-de-contatos-v1.html"
+      },
+      {
+        "titulo": "083 gerenciamento de contatos v2",
+        "arquivo": "conteudo/05_projetos/083-mesttra-gerenciamento-de-contatos-v2.html"
+      },
+      {
+        "titulo": "095 jogo da forca",
+        "arquivo": "conteudo/05_projetos/095-mesttra-jogo-da-forca.html"
+      },
+      {
+        "titulo": "131 requisitos do jogo da forca",
+        "arquivo": "conteudo/05_projetos/131-mesttra-requisitos-do-jogo-da-forca.html"
+      },
+      {
+        "titulo": "152 v deo gerenciamento de contatos v1",
+        "arquivo": "conteudo/05_projetos/152-mesttra-v-deo-gerenciamento-de-contatos-v1.html"
+      }
+    ]
+  },
+  {
+    "categoria": "06_todas_as_aulas",
+    "titulo": "06 todas as aulas",
+    "aulas": [
+      {
+        "titulo": "001 conteudo programatico",
+        "arquivo": "conteudo/06_todas_as_aulas/001-mesttra-conteudo-programatico.html"
+      },
+      {
+        "titulo": "005 ansiedade",
+        "arquivo": "conteudo/06_todas_as_aulas/005-mesttra-ansiedade.html"
+      },
+      {
+        "titulo": "006 aplica o com menu de escolha",
+        "arquivo": "conteudo/06_todas_as_aulas/006-mesttra-aplica-o-com-menu-de-escolha.html"
+      },
+      {
+        "titulo": "009 atribui o direta de dados",
+        "arquivo": "conteudo/06_todas_as_aulas/009-mesttra-atribui-o-direta-de-dados.html"
+      },
+      {
+        "titulo": "015 bibliotecas de terceiros no java",
+        "arquivo": "conteudo/06_todas_as_aulas/015-mesttra-bibliotecas-de-terceiros-no-java.html"
+      },
+      {
+        "titulo": "016 c digo de exemplo para o try catch",
+        "arquivo": "conteudo/06_todas_as_aulas/016-mesttra-c-digo-de-exemplo-para-o-try-catch.html"
+      },
+      {
+        "titulo": "018 c digo valida o cpf com fun es",
+        "arquivo": "conteudo/06_todas_as_aulas/018-mesttra-c-digo-valida-o-cpf-com-fun-es.html"
+      },
+      {
+        "titulo": "019 c lculo de venda",
+        "arquivo": "conteudo/06_todas_as_aulas/019-mesttra-c-lculo-de-venda.html"
+      },
+      {
+        "titulo": "020 c lculo de venda resposta",
+        "arquivo": "conteudo/06_todas_as_aulas/020-mesttra-c-lculo-de-venda-resposta.html"
+      },
+      {
+        "titulo": "024 charat obtendo uma posi o de uma string",
+        "arquivo": "conteudo/06_todas_as_aulas/024-mesttra-charat-obtendo-uma-posi-o-de-uma-string.html"
+      },
+      {
+        "titulo": "032 coment rios em c digo",
+        "arquivo": "conteudo/06_todas_as_aulas/032-mesttra-coment-rios-em-c-digo.html"
+      },
+      {
+        "titulo": "033 como aprender programa o",
+        "arquivo": "conteudo/06_todas_as_aulas/033-mesttra-como-aprender-programa-o.html"
+      },
+      {
+        "titulo": "034 compila o interpreta o e h brido",
+        "arquivo": "conteudo/06_todas_as_aulas/034-mesttra-compila-o-interpreta-o-e-h-brido.html"
+      },
+      {
+        "titulo": "035 concatena o de dados",
+        "arquivo": "conteudo/06_todas_as_aulas/035-mesttra-concatena-o-de-dados.html"
+      },
+      {
+        "titulo": "036 conceito operadores matem ticos",
+        "arquivo": "conteudo/06_todas_as_aulas/036-mesttra-conceito-operadores-matem-ticos.html"
+      },
+      {
+        "titulo": "039 conceito de estruturas de decis o",
+        "arquivo": "conteudo/06_todas_as_aulas/039-mesttra-conceito-de-estruturas-de-decis-o.html"
+      },
+      {
+        "titulo": "040 conceito do while",
+        "arquivo": "conteudo/06_todas_as_aulas/040-mesttra-conceito-do-while.html"
+      },
+      {
+        "titulo": "041 conceito geral fun es e procedimentos",
+        "arquivo": "conteudo/06_todas_as_aulas/041-mesttra-conceito-geral-fun-es-e-procedimentos.html"
+      },
+      {
+        "titulo": "043 conceito switch case",
+        "arquivo": "conteudo/06_todas_as_aulas/043-mesttra-conceito-switch-case.html"
+      },
+      {
+        "titulo": "044 conceitos gerais",
+        "arquivo": "conteudo/06_todas_as_aulas/044-mesttra-conceitos-gerais.html"
+      },
+      {
+        "titulo": "045 conte do program tico",
+        "arquivo": "conteudo/06_todas_as_aulas/045-mesttra-conte-do-program-tico.html"
+      },
+      {
+        "titulo": "047 criando uma data ou hora a partir de uma string",
+        "arquivo": "conteudo/06_todas_as_aulas/047-mesttra-criando-uma-data-ou-hora-a-partir-de-uma-string.html"
+      },
+      {
+        "titulo": "048 cronograma",
+        "arquivo": "conteudo/06_todas_as_aulas/048-mesttra-cronograma.html"
+      },
+      {
+        "titulo": "050 desafio armazenamento de dados em arquivo",
+        "arquivo": "conteudo/06_todas_as_aulas/050-mesttra-desafio-armazenamento-de-dados-em-arquivo.html"
+      },
+      {
+        "titulo": "051 desafio gerenciador de habitantes",
+        "arquivo": "conteudo/06_todas_as_aulas/051-mesttra-desafio-gerenciador-de-habitantes.html"
+      },
+      {
+        "titulo": "053 desafio primeira hackathon",
+        "arquivo": "conteudo/06_todas_as_aulas/053-mesttra-desafio-primeira-hackathon.html"
+      },
+      {
+        "titulo": "055 diferentes formas de acessar cada elemento do vetor",
+        "arquivo": "conteudo/06_todas_as_aulas/055-mesttra-diferentes-formas-de-acessar-cada-elemento-do-vetor.html"
+      },
+      {
+        "titulo": "056 entendendo o conceito de bibliotecas",
+        "arquivo": "conteudo/06_todas_as_aulas/056-mesttra-entendendo-o-conceito-de-bibliotecas.html"
+      },
+      {
+        "titulo": "057 entendendo os operadores de compara o",
+        "arquivo": "conteudo/06_todas_as_aulas/057-mesttra-entendendo-os-operadores-de-compara-o.html"
+      },
+      {
+        "titulo": "059 esqueleto b sico das 4 opera es",
+        "arquivo": "conteudo/06_todas_as_aulas/059-mesttra-esqueleto-b-sico-das-4-opera-es.html"
+      },
+      {
+        "titulo": "062 excerc cio pedra papel e tesoura",
+        "arquivo": "conteudo/06_todas_as_aulas/062-mesttra-excerc-cio-pedra-papel-e-tesoura.html"
+      },
+      {
+        "titulo": "063 exemplo c lculo de m dia de m ltiplos valores",
+        "arquivo": "conteudo/06_todas_as_aulas/063-mesttra-exemplo-c-lculo-de-m-dia-de-m-ltiplos-valores.html"
+      },
+      {
+        "titulo": "064 exemplo c lculo n meros primos",
+        "arquivo": "conteudo/06_todas_as_aulas/064-mesttra-exemplo-c-lculo-n-meros-primos.html"
+      },
+      {
+        "titulo": "065 exemplo contagem de caracteres",
+        "arquivo": "conteudo/06_todas_as_aulas/065-mesttra-exemplo-contagem-de-caracteres.html"
+      },
+      {
+        "titulo": "066 exemplo identificar o maior e o menor valor",
+        "arquivo": "conteudo/06_todas_as_aulas/066-mesttra-exemplo-identificar-o-maior-e-o-menor-valor.html"
+      },
+      {
+        "titulo": "067 exemplo itera o sobre caracteres",
+        "arquivo": "conteudo/06_todas_as_aulas/067-mesttra-exemplo-itera-o-sobre-caracteres.html"
+      },
+      {
+        "titulo": "068 exemplo lendo valores at um n mero espec fico",
+        "arquivo": "conteudo/06_todas_as_aulas/068-mesttra-exemplo-lendo-valores-at-um-n-mero-espec-fico.html"
+      },
+      {
+        "titulo": "070 exemplo de usando do charat",
+        "arquivo": "conteudo/06_todas_as_aulas/070-mesttra-exemplo-de-usando-do-charat.html"
+      },
+      {
+        "titulo": "071 exemplos de uso do do while",
+        "arquivo": "conteudo/06_todas_as_aulas/071-mesttra-exemplos-de-uso-do-do-while.html"
+      },
+      {
+        "titulo": "073 exerc cio acerte o n mero",
+        "arquivo": "conteudo/06_todas_as_aulas/073-mesttra-exerc-cio-acerte-o-n-mero.html"
+      },
+      {
+        "titulo": "074 exerc cio desafio",
+        "arquivo": "conteudo/06_todas_as_aulas/074-mesttra-exerc-cio-desafio.html"
+      },
+      {
+        "titulo": "076 exerc cio salvando dados em txt",
+        "arquivo": "conteudo/06_todas_as_aulas/076-mesttra-exerc-cio-salvando-dados-em-txt.html"
+      },
+      {
+        "titulo": "077 exerc cios sobre fun es e procedimentos",
+        "arquivo": "conteudo/06_todas_as_aulas/077-mesttra-exerc-cios-sobre-fun-es-e-procedimentos.html"
+      },
+      {
+        "titulo": "079 frontend",
+        "arquivo": "conteudo/06_todas_as_aulas/079-mesttra-frontend.html"
+      },
+      {
+        "titulo": "080 fun es",
+        "arquivo": "conteudo/06_todas_as_aulas/080-mesttra-fun-es.html"
+      },
+      {
+        "titulo": "081 gerenciador de lista de tarefas",
+        "arquivo": "conteudo/06_todas_as_aulas/081-mesttra-gerenciador-de-lista-de-tarefas.html"
+      },
+      {
+        "titulo": "085 if else exerc cio 1",
+        "arquivo": "conteudo/06_todas_as_aulas/085-mesttra-if-else-exerc-cio-1.html"
+      },
+      {
+        "titulo": "086 if else exerc cio 2",
+        "arquivo": "conteudo/06_todas_as_aulas/086-mesttra-if-else-exerc-cio-2.html"
+      },
+      {
+        "titulo": "087 indenta o",
+        "arquivo": "conteudo/06_todas_as_aulas/087-mesttra-indenta-o.html"
+      },
+      {
+        "titulo": "088 inicializa o de vetores",
+        "arquivo": "conteudo/06_todas_as_aulas/088-mesttra-inicializa-o-de-vetores.html"
+      },
+      {
+        "titulo": "089 instala o do java",
+        "arquivo": "conteudo/06_todas_as_aulas/089-mesttra-instala-o-do-java.html"
+      },
+      {
+        "titulo": "091 instala o do vscode e plugins",
+        "arquivo": "conteudo/06_todas_as_aulas/091-mesttra-instala-o-do-vscode-e-plugins.html"
+      },
+      {
+        "titulo": "093 java b sico",
+        "arquivo": "conteudo/06_todas_as_aulas/093-mesttra-java-b-sico.html"
+      },
+      {
+        "titulo": "094 jdk jre e jvm",
+        "arquivo": "conteudo/06_todas_as_aulas/094-mesttra-jdk-jre-e-jvm.html"
+      },
+      {
+        "titulo": "097 linguagens de programa o",
+        "arquivo": "conteudo/06_todas_as_aulas/097-mesttra-linguagens-de-programa-o.html"
+      },
+      {
+        "titulo": "098 links",
+        "arquivo": "conteudo/06_todas_as_aulas/098-mesttra-links.html"
+      },
+      {
+        "titulo": "099 links livros recomendados",
+        "arquivo": "conteudo/06_todas_as_aulas/099-mesttra-links-livros-recomendados.html"
+      },
+      {
+        "titulo": "100 lista 10 exerc cios",
+        "arquivo": "conteudo/06_todas_as_aulas/100-mesttra-lista-10-exerc-cios.html"
+      },
+      {
+        "titulo": "103 lista de exerc cios 03 estruturas de decis o",
+        "arquivo": "conteudo/06_todas_as_aulas/103-mesttra-lista-de-exerc-cios-03-estruturas-de-decis-o.html"
+      },
+      {
+        "titulo": "104 lista de exerc cios 1",
+        "arquivo": "conteudo/06_todas_as_aulas/104-mesttra-lista-de-exerc-cios-1.html"
+      },
+      {
+        "titulo": "105 lista de exerc cios 2",
+        "arquivo": "conteudo/06_todas_as_aulas/105-mesttra-lista-de-exerc-cios-2.html"
+      },
+      {
+        "titulo": "106 lista de exerc cios 4 switch case",
+        "arquivo": "conteudo/06_todas_as_aulas/106-mesttra-lista-de-exerc-cios-4-switch-case.html"
+      },
+      {
+        "titulo": "107 lista de exerc cios 5 operador tern rio",
+        "arquivo": "conteudo/06_todas_as_aulas/107-mesttra-lista-de-exerc-cios-5-operador-tern-rio.html"
+      },
+      {
+        "titulo": "108 lista de exerc cios 6 estruturas de decis o",
+        "arquivo": "conteudo/06_todas_as_aulas/108-mesttra-lista-de-exerc-cios-6-estruturas-de-decis-o.html"
+      },
+      {
+        "titulo": "109 lista de exerc cios 7",
+        "arquivo": "conteudo/06_todas_as_aulas/109-mesttra-lista-de-exerc-cios-7.html"
+      },
+      {
+        "titulo": "110 lista exerc cio 12",
+        "arquivo": "conteudo/06_todas_as_aulas/110-mesttra-lista-exerc-cio-12.html"
+      },
+      {
+        "titulo": "111 material daniela prepara o curriculum",
+        "arquivo": "conteudo/06_todas_as_aulas/111-mesttra-material-daniela-prepara-o-curriculum.html"
+      },
+      {
+        "titulo": "113 opera es de acr scimo e subtra o em datas e horas",
+        "arquivo": "conteudo/06_todas_as_aulas/113-mesttra-opera-es-de-acr-scimo-e-subtra-o-em-datas-e-horas.html"
+      },
+      {
+        "titulo": "114 opera es de compara o",
+        "arquivo": "conteudo/06_todas_as_aulas/114-mesttra-opera-es-de-compara-o.html"
+      },
+      {
+        "titulo": "115 operador tern rio",
+        "arquivo": "conteudo/06_todas_as_aulas/115-mesttra-operador-tern-rio.html"
+      },
+      {
+        "titulo": "116 operadores l gico",
+        "arquivo": "conteudo/06_todas_as_aulas/116-mesttra-operadores-l-gico.html"
+      },
+      {
+        "titulo": "117 operadores l gicos",
+        "arquivo": "conteudo/06_todas_as_aulas/117-mesttra-operadores-l-gicos.html"
+      },
+      {
+        "titulo": "118 orienta es",
+        "arquivo": "conteudo/06_todas_as_aulas/118-mesttra-orienta-es.html"
+      },
+      {
+        "titulo": "119 pedra papel tesoura com vetor",
+        "arquivo": "conteudo/06_todas_as_aulas/119-mesttra-pedra-papel-tesoura-com-vetor.html"
+      },
+      {
+        "titulo": "120 procedimentos",
+        "arquivo": "conteudo/06_todas_as_aulas/120-mesttra-procedimentos.html"
+      },
+      {
+        "titulo": "121 procedimentos com par metros",
+        "arquivo": "conteudo/06_todas_as_aulas/121-mesttra-procedimentos-com-par-metros.html"
+      },
+      {
+        "titulo": "122 quest o 01 1",
+        "arquivo": "conteudo/06_todas_as_aulas/122-mesttra-quest-o-01-1.html"
+      },
+      {
+        "titulo": "123 quest o 01",
+        "arquivo": "conteudo/06_todas_as_aulas/123-mesttra-quest-o-01.html"
+      },
+      {
+        "titulo": "124 quest o 02",
+        "arquivo": "conteudo/06_todas_as_aulas/124-mesttra-quest-o-02.html"
+      },
+      {
+        "titulo": "125 quest o 03",
+        "arquivo": "conteudo/06_todas_as_aulas/125-mesttra-quest-o-03.html"
+      },
+      {
+        "titulo": "126 quest o 04",
+        "arquivo": "conteudo/06_todas_as_aulas/126-mesttra-quest-o-04.html"
+      },
+      {
+        "titulo": "127 quest o 05",
+        "arquivo": "conteudo/06_todas_as_aulas/127-mesttra-quest-o-05.html"
+      },
+      {
+        "titulo": "128 realizando a limpeza do buffer",
+        "arquivo": "conteudo/06_todas_as_aulas/128-mesttra-realizando-a-limpeza-do-buffer.html"
+      },
+      {
+        "titulo": "129 realizando o debug de c digo",
+        "arquivo": "conteudo/06_todas_as_aulas/129-mesttra-realizando-o-debug-de-c-digo.html"
+      },
+      {
+        "titulo": "132 resposta lista de exerc cios 6",
+        "arquivo": "conteudo/06_todas_as_aulas/132-mesttra-resposta-lista-de-exerc-cios-6.html"
+      },
+      {
+        "titulo": "133 resposta lista de exerc cios 7",
+        "arquivo": "conteudo/06_todas_as_aulas/133-mesttra-resposta-lista-de-exerc-cios-7.html"
+      },
+      {
+        "titulo": "136 resumo estruturas de decis o",
+        "arquivo": "conteudo/06_todas_as_aulas/136-mesttra-resumo-estruturas-de-decis-o.html"
+      },
+      {
+        "titulo": "138 solu o teste1 quest o 04",
+        "arquivo": "conteudo/06_todas_as_aulas/138-mesttra-solu-o-teste1-quest-o-04.html"
+      },
+      {
+        "titulo": "139 solu o teste1 quest o 05",
+        "arquivo": "conteudo/06_todas_as_aulas/139-mesttra-solu-o-teste1-quest-o-05.html"
+      },
+      {
+        "titulo": "140 solu o lista exerc cios 1",
+        "arquivo": "conteudo/06_todas_as_aulas/140-mesttra-solu-o-lista-exerc-cios-1.html"
+      },
+      {
+        "titulo": "141 sorteio nico de valores",
+        "arquivo": "conteudo/06_todas_as_aulas/141-mesttra-sorteio-nico-de-valores.html"
+      },
+      {
+        "titulo": "143 subtra o entre datas e horas",
+        "arquivo": "conteudo/06_todas_as_aulas/143-mesttra-subtra-o-entre-datas-e-horas.html"
+      },
+      {
+        "titulo": "144 sugest o exerc cio",
+        "arquivo": "conteudo/06_todas_as_aulas/144-mesttra-sugest-o-exerc-cio.html"
+      },
+      {
+        "titulo": "145 teoria if else",
+        "arquivo": "conteudo/06_todas_as_aulas/145-mesttra-teoria-if-else.html"
+      },
+      {
+        "titulo": "146 tipos de dados e intervalos de valores",
+        "arquivo": "conteudo/06_todas_as_aulas/146-mesttra-tipos-de-dados-e-intervalos-de-valores.html"
+      },
+      {
+        "titulo": "147 tipos de vari veis no java",
+        "arquivo": "conteudo/06_todas_as_aulas/147-mesttra-tipos-de-vari-veis-no-java.html"
+      },
+      {
+        "titulo": "148 uso do try catch",
+        "arquivo": "conteudo/06_todas_as_aulas/148-mesttra-uso-do-try-catch.html"
+      },
+      {
+        "titulo": "149 v deo do while",
+        "arquivo": "conteudo/06_todas_as_aulas/149-mesttra-v-deo-do-while.html"
+      },
+      {
+        "titulo": "151 v deo formatando casas decimais",
+        "arquivo": "conteudo/06_todas_as_aulas/151-mesttra-v-deo-formatando-casas-decimais.html"
+      },
+      {
+        "titulo": "153 v deo operadores matem ticos",
+        "arquivo": "conteudo/06_todas_as_aulas/153-mesttra-v-deo-operadores-matem-ticos.html"
+      },
+      {
+        "titulo": "155 v deo 01 try catch",
+        "arquivo": "conteudo/06_todas_as_aulas/155-mesttra-v-deo-01-try-catch.html"
+      },
+      {
+        "titulo": "156 v deo 02 try catch",
+        "arquivo": "conteudo/06_todas_as_aulas/156-mesttra-v-deo-02-try-catch.html"
+      },
+      {
+        "titulo": "157 v deo operador tern rio",
+        "arquivo": "conteudo/06_todas_as_aulas/157-mesttra-v-deo-operador-tern-rio.html"
+      },
+      {
+        "titulo": "158 v deo resumo fun es e procedimentos",
+        "arquivo": "conteudo/06_todas_as_aulas/158-mesttra-v-deo-resumo-fun-es-e-procedimentos.html"
+      },
+      {
+        "titulo": "159 v deo switch case",
+        "arquivo": "conteudo/06_todas_as_aulas/159-mesttra-v-deo-switch-case.html"
+      },
+      {
+        "titulo": "160 v deos gerenciando contatos v2",
+        "arquivo": "conteudo/06_todas_as_aulas/160-mesttra-v-deos-gerenciando-contatos-v2.html"
+      },
+      {
+        "titulo": "162 v deos sobre estruturas de decis o",
+        "arquivo": "conteudo/06_todas_as_aulas/162-mesttra-v-deos-sobre-estruturas-de-decis-o.html"
+      },
+      {
+        "titulo": "163 vari veis",
+        "arquivo": "conteudo/06_todas_as_aulas/163-mesttra-vari-veis.html"
+      },
+      {
+        "titulo": "164 vetores",
+        "arquivo": "conteudo/06_todas_as_aulas/164-mesttra-vetores.html"
+      },
+      {
+        "titulo": "165 vetores bidimensionais ou matrizes",
+        "arquivo": "conteudo/06_todas_as_aulas/165-mesttra-vetores-bidimensionais-ou-matrizes.html"
+      }
+    ]
+  }
+]
